@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: UNLICENSED
 
-pragma solidity ^0.8.16;
+pragma solidity ^0.5.0;
 
 contract HelloWorld {
     function hello() public pure returns(string memory){
